@@ -7,7 +7,7 @@
 
 <!-- ### 🛠 &nbsp;Tech Stacks -->
 
-<!--
+
 ![Node.js](https://img.shields.io/badge/-Node.js-280137?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/ReactJS-280137?style=flat&logo=react)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-280137?style=flat&logo=python)&nbsp;
@@ -27,7 +27,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-280137?style=flat&logo=blender)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-280137?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-280137?style=flat&logo=visual-studio&logoColor=450c91)
--->
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
