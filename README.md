@@ -11,12 +11,15 @@
 ![React](https://img.shields.io/badge/ReactJS-280137?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-280137?style=flat&logo=vue.js)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-280137?style=flat&logo=laravel)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-280137?style=flat&logo=bootstrap)&nbsp;
+![Tailwind.CSS](https://img.shields.io/badge/-Tailwind%20CSS-280137?style=flat&logo=tailwindcss)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-280137?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-280137?style=flat&logo=java)&nbsp;
 ![C](https://img.shields.io/badge/-C-280137?style=flat&logo=C&logoColor=326696)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-280137?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-280137?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-280137?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-280137?style=flat&logo=PHP&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-280137?style=flat&logo=git)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-280137?style=flat&logo=blender)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-280137?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
